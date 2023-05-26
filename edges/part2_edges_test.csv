@@ -1,0 +1,90 @@
+Source,Target,Type,Id,Label,Weight
+Andria,Cristiano,Directed,0,,1
+Cristiano,Andria,Directed,1,,1
+Claudia,Mario Luzi,Directed,2,,1
+Claudia,Raffaele Carrieri,Directed,3,,1
+Claudia,Salvador Dali,Directed,4,,1
+Claudia,Erika,Directed,5,,1
+Erika,Claudia,Directed,6,,1
+Claudia,Antonia Pozzi,Directed,7,,1
+Claudia,Rina Durante,Directed,8,,1
+Claudia,Sconosciuto Italiano,Directed,9,,1
+Sconosciuto Italiano,Claudia,Directed,10,,1
+Claudia,Pippi Calzelunghe,Directed,11,,1
+Claudia,Andria,Directed,12,,1
+Andria,Claudia,Directed,13,,1
+Claudia,Alba de Cespedes,Directed,14,,1
+Claudia,Assunta Veleno,Directed,15,,1
+Claudia,Etta Bianchi,Directed,16,,1
+Claudia,Elfo,Directed,17,,1
+Elisa Fortuna,Claudia,Directed,18,,1
+Claudia,Elisa Fortuna,Directed,19,,1
+Claudia,Tonia,Directed,20,,1
+Tonia,Claudia,Directed,21,,1
+Claudia,Biagia Marniti,Directed,22,,1
+Elisa Fortuna,Tonia,Directed,23,,1
+Tonia,Elisa Fortuna,Directed,24,,1
+Elisa Fortuna,Vincenzo Veleno,Directed,26,,1
+Elisa Fortuna,Enrico Fanelli,Directed,27,,1
+Erika,Lisa Morpurgo,Directed,28,,1
+Erika,Sconosciuto Italiano,Directed,29,,1
+Erika,Pippi Calzelunghe,Directed,30,,1
+Erika,Andria,Directed,31,,1
+Andria,Erika,Directed,32,,1
+Erika,Mario,Directed,33,,1
+Mario,Erika,Directed,34,,1
+Erika,Elfo,Directed,35,,1
+Erika,Elisa Fortuna,Directed,36,,1
+Elisa Fortuna,Erika,Directed,37,,1
+Etta Bianchi,Padre Agostino,Directed,38,,1
+Etta Bianchi,Marco Curcio,Directed,39,,1
+Marco Curcio,Etta Bianchi,Directed,40,,1
+io/Francesco Veleno,Claudia,Directed,41,,1
+Claudia,io/Francesco Veleno,Directed,42,,1
+io/Francesco Veleno,Elisa Fortuna,Directed,43,,1
+Elisa Fortuna,io/Francesco Veleno,Directed,44,,1
+io/Francesco Veleno,Domenico,Directed,45,,1
+Tonia,io/Francesco Veleno,Directed,46,,1
+io/Francesco Veleno,Tonia,Directed,47,,1
+io/Francesco Veleno,Dente,Directed,48,,1
+io/Francesco Veleno,Vincenzo Veleno,Directed,49,,1
+io/Francesco Veleno,Padre Agostino,Directed,50,,1
+io/Francesco Veleno,Andria,Directed,51,,1
+Andria,io/Francesco Veleno,Directed,52,,1
+io/Francesco Veleno,Erika,Directed,53,,1
+Erika,io/Francesco Veleno,Directed,54,,1
+io/Francesco Veleno,Elfo,Directed,55,,1
+io/Francesco Veleno,Shorsh,Directed,56,,1
+io/Francesco Veleno,Assunta Veleno,Directed,60,,1
+io/Francesco Veleno,Giuseppe Veleno,Directed,61,,1
+Marco Curcio,Padre Agostino,Directed,62,,1
+Andria,Georgia,Directed,64,,1
+Andria,Kitty,Directed,65,,1
+Andria,Tbilisi,Directed,66,,1
+Andria,Nollendorfplatz,Directed,67,,1
+Andria,Berlino,Directed,68,,1
+Andria,Friedrichshain,Directed,69,,1
+Claudia,Berlino,Directed,70,,1
+Claudia,Berghain,Directed,71,,1
+Claudia,Ostbahnhof,Directed,72,,1
+Claudia,Warschauer,Directed,73,,1
+Claudia,Ostkreuz,Directed,74,,1
+Claudia,Ava,Directed,75,,1
+Claudia,Lux,Directed,76,,1
+Claudia,Karl-Marx Strasse,Directed,77,,1
+Claudia,Gleimstrasse,Directed,78,,1
+Claudia,Kitty,Directed,79,,1
+Claudia,Weissensee,Directed,80,,1
+Elisa Fortuna,Vietnam,Directed,81,,1
+Elisa Fortuna,Gargano,Directed,82,,1
+Erika,Gleimstrasse,Directed,83,,1
+io/Francesco Veleno,Massafra,Directed,84,,1
+io/Francesco Veleno,Taranto,Directed,85,,1
+io/Francesco Veleno,Martina Franca,Directed,86,,1
+io/Francesco Veleno,Torre Canne,Directed,87,,1
+io/Francesco Veleno,Gargano,Directed,88,,1
+io/Francesco Veleno,Berlino,Directed,90,,1
+io/Francesco Veleno,Kitty,Directed,91,,1
+io/Francesco Veleno,Rummelsburg,Directed,92,,1
+io/Francesco Veleno,Friedrichshain,Directed,93,,1
+Tonia,Gargano,Directed,94,,1

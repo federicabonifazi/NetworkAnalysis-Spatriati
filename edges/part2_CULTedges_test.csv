@@ -1,0 +1,47 @@
+Source,Target,Type,Id,Label,Weight
+Claudia,Mario Luzi,Directed,2,,1
+Claudia,Raffaele Carrieri,Directed,3,,1
+Claudia,Salvador Dali,Directed,4,,1
+Claudia,Erika,Directed,5,,1
+Erika,Claudia,Directed,6,,1
+Claudia,Antonia Pozzi,Directed,7,,1
+Claudia,Rina Durante,Directed,8,,1
+Claudia,Pippi Calzelunghe,Directed,11,,1
+Claudia,Alba de Cespedes,Directed,14,,1
+Claudia,Elfo,Directed,17,,1
+Claudia,Biagia Marniti,Directed,22,,1
+Erika,Lisa Morpurgo,Directed,28,,1
+Erika,Pippi Calzelunghe,Directed,30,,1
+io/Francesco Veleno,Claudia,Directed,41,,1
+Claudia,io/Francesco Veleno,Directed,42,,1
+io/Francesco Veleno,Andria,Directed,51,,1
+Andria,io/Francesco Veleno,Directed,52,,1
+io/Francesco Veleno,Erika,Directed,53,,1
+Erika,io/Francesco Veleno,Directed,54,,1
+Andria,Georgia,Directed,64,,1
+Andria,Kitty,Directed,65,,1
+Andria,Tbilisi,Directed,66,,1
+Andria,Nollendorfplatz,Directed,67,,1
+Andria,Berlino,Directed,68,,1
+Andria,Friedrichshain,Directed,69,,1
+Claudia,Berlino,Directed,70,,1
+Claudia,Berghain,Directed,71,,1
+Claudia,Ostbahnhof,Directed,72,,1
+Claudia,Warschauer,Directed,73,,1
+Claudia,Ostkreuz,Directed,74,,1
+Claudia,Ava,Directed,75,,1
+Claudia,Lux,Directed,76,,1
+Claudia,Karl-Marx Strasse,Directed,77,,1
+Claudia,Gleimstrasse,Directed,78,,1
+Claudia,Kitty,Directed,79,,1
+Claudia,Weissensee,Directed,80,,1
+Erika,Gleimstrasse,Directed,83,,1
+io/Francesco Veleno,Massafra,Directed,84,,1
+io/Francesco Veleno,Taranto,Directed,85,,1
+io/Francesco Veleno,Martina Franca,Directed,86,,1
+io/Francesco Veleno,Torre Canne,Directed,87,,1
+io/Francesco Veleno,Gargano,Directed,88,,1
+io/Francesco Veleno,Berlino,Directed,90,,1
+io/Francesco Veleno,Kitty,Directed,91,,1
+io/Francesco Veleno,Rummelsburg,Directed,92,,1
+io/Francesco Veleno,Friedrichshain,Directed,93,,1

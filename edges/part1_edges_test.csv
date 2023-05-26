@@ -1,0 +1,201 @@
+Source,Target,Type,Id,Label,Weight
+Claudia,Michele Duranti,Directed,0,,1
+Michele Duranti,Claudia,Directed,1,,1
+Claudia,Natalia Ginzburg,Directed,2,,1
+Claudia,Elsa Morante,Directed,3,,1
+Claudia,Dario Bellezza,Directed,4,,1
+Claudia,Marco Curcio,Directed,5,,1
+Marco Curcio,Claudia,Directed,6,,1
+Claudia,Naomi Klein,Directed,7,,1
+Claudia,Domenico Carella,Directed,8,,1
+Claudia,Sibilla Alteramo,Directed,9,,1
+Claudia,Dino Campana,Directed,10,,1
+Claudia,Jay Gatsby,Directed,11,,1
+Claudia,Holden Caufield,Directed,12,,1
+Claudia,Fitzwilliam Darcy,Directed,13,,1
+Claudia,Atticus Finch,Directed,14,,1
+Claudia,Calvino,Directed,15,,1
+Claudia,Assunta Veleno,Directed,16,,1
+Assunta Veleno,Claudia,Directed,17,,1
+Elisa Fortuna,Claudia,Directed,18,,1
+Claudia,Elisa Fortuna,Directed,19,,1
+Claudia,Vittorio Bodini,Directed,20,,1
+Claudia,Giulia,Directed,21,,1
+Giulia,Claudia,Directed,22,,1
+Matteo,Claudia,Directed,23,,1
+Claudia,Matteo,Directed,24,,1
+Claudia,Kevin Trasloco,Directed,25,,1
+Claudia,Maria Marcone,Directed,26,,1
+Claudia,Mariateresa Di Lascia,Directed,27,,1
+Claudia,Rina Durante,Directed,28,,1
+Claudia,Fabrizio,Directed,29,,1
+Fabrizio,Claudia,Directed,30,,1
+Claudia,Giuseppe,Directed,31,,1
+Giuseppe,Claudia,Directed,32,,1
+Claudia,Antonio,Directed,33,,1
+Antonio,Claudia,Directed,34,,1
+Claudia,Pier Vittorio Tondelli,Directed,35,,1
+Claudia,Eugenio Baroni,Directed,36,,1
+Eugenio Baroni,Claudia,Directed,37,,1
+Claudia,Maria Corti,Directed,38,,1
+Claudia,Osamu Tezuka,Directed,39,,1
+Claudia,Banana Yoshimoto,Directed,40,,1
+Claudia,Rumiiko Takahashi,Directed,41,,1
+Claudia,Enrico Fanelli,Directed,42,,1
+Enrico Fanelli,Claudia,Directed,43,,1
+Claudia,Franz Kafka,Directed,44,,1
+Domenico,Mariella,Directed,45,,1
+Mariella,Domenico,Directed,46,,1
+Elisa Fortuna,Vincenzo Veleno,Directed,47,,1
+Vincenzo Veleno,Elisa Fortuna,Directed,48,,1
+Elisa Fortuna,Enrico Fanelli,Directed,49,,1
+Enrico Fanelli,Elisa Fortuna,Directed,50,,1
+Enrico Fanelli,Raffaele Carrieri,Directed,51,,1
+Enrico Fanelli,Maria Corti,Directed,52,,1
+Enrico Fanelli,Mariateresa Di Lascia,Directed,53,,1
+Enrico Fanelli,Rina Durante,Directed,54,,1
+Enrico Fanelli,Maria Marcone,Directed,55,,1
+Etta Bianchi,Claudia,Directed,56,,1
+Claudia,Etta Bianchi,Directed,57,,1
+io/Francesco Veleno,Etta Bianchi,Directed,58,,1
+Etta Bianchi,io/Francesco Veleno,Directed,59,,1
+Enrico Fanelli,Etta Bianchi,Directed,60,,1
+Etta Bianchi,Enrico Fanelli,Directed,61,,1
+Etta Bianchi,Marco Curcio,Directed,62,,1
+Marco Curcio,Etta Bianchi,Directed,63,,1
+Giada,Claudia,Directed,64,,1
+Giada,io/Francesco Veleno,Directed,65,,1
+Claudia,Giada,Directed,66,,1
+io/Francesco Veleno,Giada,Directed,67,,1
+Giuseppe (scuola),Ilaria,Directed,68,,1
+Giuseppe (scuola),Luigi,Directed,69,,1
+Giuseppe (scuola),Salvatore,Directed,70,,1
+Giuseppe (scuola),Romina,Directed,71,,1
+Giuseppe (scuola),Valentina,Directed,72,,1
+Ilaria,Valentina,Directed,73,,1
+Ilaria,Giuseppe (scuola),Directed,74,,1
+Ilaria,Luigi,Directed,75,,1
+Ilaria,Salvatore,Directed,76,,1
+Ilaria,Romina,Directed,77,,1
+io/Francesco Veleno,Claudia,Directed,78,,1
+Claudia,io/Francesco Veleno,Directed,79,,1
+io/Francesco Veleno,Elisa Fortuna,Directed,80,,1
+Elisa Fortuna,io/Francesco Veleno,Directed,81,,1
+io/Francesco Veleno,Vincenzo Veleno,Directed,82,,1
+Vincenzo Veleno,io/Francesco Veleno,Directed,83,,1
+io/Francesco Veleno,Don Bastone,Directed,84,,1
+io/Francesco Veleno,Domenico,Directed,85,,1
+Domenico,io/Francesco Veleno,Directed,86,,1
+io/Francesco Veleno,Trinita,Directed,87,,1
+io/Francesco Veleno,San Domenico,Directed,88,,1
+io/Francesco Veleno,Madonna del Carmine,Directed,89,,1
+io/Francesco Veleno,Sant'Antonio,Directed,90,,1
+io/Francesco Veleno,Cristo,Directed,91,,1
+io/Francesco Veleno,Michele Duranti,Directed,92,,1
+io/Francesco Veleno,Marco Curcio,Directed,93,,1
+Marco Curcio,io/Francesco Veleno,Directed,94,,1
+io/Francesco Veleno,Domenico Carella,Directed,95,,1
+io/Francesco Veleno,Sibilla Alteramo,Directed,96,,1
+io/Francesco Veleno,Dino Campana,Directed,97,,1
+io/Francesco Veleno,Franco Cassano,Directed,98,,1
+io/Francesco Veleno,Clara,Directed,99,,1
+Clara,io/Francesco Veleno,Directed,100,,1
+Mariangela,io/Francesco Veleno,Directed,101,,1
+io/Francesco Veleno,Mariangela,Directed,102,,1
+Mirella,io/Francesco Veleno,Directed,103,,1
+io/Francesco Veleno,Mirella,Directed,104,,1
+io/Francesco Veleno,Tatarella,Directed,105,,1
+io/Francesco Veleno,Enrico Fanelli,Directed,106,,1
+io/Francesco Veleno,Calvino,Directed,107,,1
+io/Francesco Veleno,Giuseppe Veleno,Directed,108,,1
+io/Francesco Veleno,Assunta Veleno,Directed,109,,1
+Assunta Veleno,io/Francesco Veleno,Directed,110,,1
+io/Francesco Veleno,Giulia,Directed,113,,1
+Giulia,io/Francesco Veleno,Directed,114,,1
+Matteo,io/Francesco Veleno,Directed,115,,1
+io/Francesco Veleno,Matteo,Directed,116,,1
+io/Francesco Veleno,Mariateresa Di Lascia,Directed,117,,1
+io/Francesco Veleno,Rina Durante,Directed,118,,1
+io/Francesco Veleno,Maria Marcone,Directed,119,,1
+io/Francesco Veleno,San Biagio,Directed,120,,1
+io/Francesco Veleno,Daniela,Directed,121,,1
+Daniela,io/Francesco Veleno,Directed,122,,1
+io/Francesco Veleno,Flavia,Directed,123,,1
+Flavia,io/Francesco Veleno,Directed,124,,1
+io/Francesco Veleno,Marianna,Directed,125,,1
+Marianna,io/Francesco Veleno,Directed,126,,1
+io/Francesco Veleno,Loredana,Directed,127,,1
+Loredana,io/Francesco Veleno,Directed,128,,1
+Luigi,Salvatore,Directed,129,,1
+Luigi,Romina,Directed,130,,1
+Luigi,Ilaria,Directed,131,,1
+Luigi,Valentina,Directed,132,,1
+Luigi,Giuseppe (scuola),Directed,133,,1
+Romina,Salvatore,Directed,134,,1
+Romina,Ilaria,Directed,135,,1
+Romina,Valentina,Directed,136,,1
+Romina,Giuseppe (scuola),Directed,137,,1
+Romina,Luigi,Directed,138,,1
+Salvatore,Romina,Directed,139,,1
+Salvatore,Ilaria,Directed,140,,1
+Salvatore,Valentina,Directed,141,,1
+Salvatore,Giuseppe (scuola),Directed,142,,1
+Salvatore,Luigi,Directed,143,,1
+Valentina,Giuseppe (scuola),Directed,144,,1
+Valentina,Luigi,Directed,145,,1
+Valentina,Salvatore,Directed,146,,1
+Valentina,Romina,Directed,147,,1
+Valentina,Ilaria,Directed,148,,1
+Assunta Veleno,Gioia del Colle,Directed,149,,1
+Claudia,Fiera del Levante,Directed,150,,1
+Claudia,Valle d'Itria,Directed,151,,1
+Claudia,Candela,Directed,152,,1
+Claudia,Locorotondo,Directed,153,,1
+Claudia,Ostuni,Directed,154,,1
+Claudia,Cisternino,Directed,155,,1
+Claudia,Nord,Directed,156,,1
+Claudia,Gioia del Colle,Directed,157,,1
+Claudia,Parigi,Directed,158,,1
+Claudia,Berlino,Directed,159,,1
+Claudia,Martina Franca,Directed,160,,1
+Claudia,Londra,Directed,161,,1
+Claudia,Northwood,Directed,162,,1
+Claudia,Milano,Directed,163,,1
+Claudia,Porta Romana,Directed,164,,1
+Claudia,Lecce,Directed,165,,1
+Claudia,Utrecht,Directed,166,,1
+Claudia,Porta Ticinese,Directed,167,,1
+Claudia,Torre Velasca,Directed,168,,1
+Claudia,Giardini della Guastella,Directed,169,,1
+Claudia,Torre Canne,Directed,170,,1
+Claudia,Germania,Directed,171,,1
+Elisa Fortuna,Martina Franca,Directed,172,,1
+Eugenio Baroni,Giardini della Guastella,Directed,173,,1
+Giuseppe Veleno,Gioia del Colle,Directed,174,,1
+io/Francesco Veleno,Fiera del Levante,Directed,175,,1
+io/Francesco Veleno,Ostuni,Directed,176,,1
+io/Francesco Veleno,Locorotondo,Directed,177,,1
+io/Francesco Veleno,Cisternino,Directed,178,,1
+io/Francesco Veleno,Valle d'Itria,Directed,179,,1
+io/Francesco Veleno,Bari,Directed,180,,1
+io/Francesco Veleno,Sud,Directed,181,,1
+io/Francesco Veleno,Gioia del Colle,Directed,182,,1
+io/Francesco Veleno,Milano,Directed,183,,1
+io/Francesco Veleno,Piazza Plebiscito,Directed,184,,1
+io/Francesco Veleno,Via Cavour,Directed,185,,1
+io/Francesco Veleno,Piazza Umberto,Directed,186,,1
+io/Francesco Veleno,Via Sparano,Directed,187,,1
+Marco Curcio,Locorotondo,Directed,188,,1
+Marco Curcio,Candela,Directed,189,,1
+Marco Curcio,Cisternino,Directed,190,,1
+Marco Curcio,Lecce,Directed,191,,1
+Michele Duranti,Torre Canne,Directed,192,,1
+Vincenzo Veleno,Martina Franca,Directed,193,,1
+Ilaria,Tito Livio,Directed,194,,1
+Valentina,Tito Livio,Directed,195,,1
+Giuseppe (scuola),Tito Livio,Directed,196,,1
+Luigi,Tito Livio,Directed,197,,1
+Salvatore,Tito Livio,Directed,198,,1
+Romina,Tito Livio,Directed,199,,1
+io/Francesco Veleno,Tito Livio,Directed,293,,1
+Claudia,Tito Livio,Directed,294,,1
